@@ -1,7 +1,7 @@
 # SpiderGame
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dfleper/SpiderGame?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/SpiderGame?color=blue&label=%C3%BAltimo%20commit&logo=github&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/SpiderGame?color=blue&label=last-commit&logo=github&logoColor=white)
 
 ![ScreenShot](https://github.com/DomingoFleitas/SpiderGame/blob/master/src/ScreenShot/SpiderGame001.png)
 ![ScreenShot](https://github.com/DomingoFleitas/SpiderGame/blob/master/src/ScreenShot/SpiderGame002.png)
